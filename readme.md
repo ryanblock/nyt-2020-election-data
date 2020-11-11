@@ -48,4 +48,4 @@ You probably shouldn't believe internet conspiracy theories. But if you must, I 
 
 ## Thanks
 
-💕💕💕 to [Cameron Marlow](/cameronmarlow) for helping me suck less with Pandas!
+💕💕💕 to [Cameron Marlow](https://github.com/cameronmarlow) for helping me suck less with Pandas!
