@@ -44,3 +44,8 @@ Out of curiosity I'll probably continue researching this dataset a bit more, but
 ### tl;dr
 
 You probably shouldn't believe internet conspiracy theories. But if you must, I have a fresh supply of bridges to sell you.
+
+
+## Thanks
+
+💕💕💕 to [Cameron Marlow](/cameronmarlow) for helping me suck less with Pandas!
